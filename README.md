@@ -50,8 +50,8 @@ Sebelum menginstal Lexa V.2 coba dulu botnya disini
 ### Install With Termux
 
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/srbrabo/Felipe-157.git
+> cd Felipe-157
 > bash install.sh
 > npm start
 ```
@@ -65,7 +65,7 @@ Contoh default :
 ```
 {
 	"prefix": ".",
-	"ownerNumber": "6282223014661",
+	"ownerNumber": "557588119334",
 	"BarBarKey": "YourApiKey",
 	"Vhtearkey": "YourApiKey",
 	"LolHumanKey": "YourApiKey",
@@ -73,7 +73,7 @@ Contoh default :
         "Itsmeikyapi": "Yourapikey",
 	"limit": "20",
   "memberlimit": "20",
-  "cr": "𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️",
+  "cr": "Sr Brabo  ❤️",
   "hargalimit": "500",
   "NamaBot": "Lexa V.2",
   "Ig": "http://www.instagram.com/mrf.zvx/",
@@ -94,15 +94,13 @@ Contoh default :
 ```
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Lexa bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' // Nomor owner
++ 'FN:Sr.Brabo\n' // Nama
++ 'ORG:Brabo bot;\n' // Nama bot
++ 'TEL;type=CELL;type=VOICE;waid=557588119334:+55 75 8811-9334\n' // Nomor owner
 + 'END:VCARD' 
 ```
 
 ### Let's connect with me
 <p>
-<a href="http://wa.me/6282223014661" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/mrf.zvx/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=100028409167054" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+<a href="http://wa.me/+55 75 8811-9334" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 </p>
